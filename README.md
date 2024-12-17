@@ -16,7 +16,7 @@ The **Notepad with Todo App** is a feature-rich iOS application built using **Sw
 - **Delete Notes**: Remove notes that are no longer needed.  
 - **CRUD Operations**: Fully functional Create, Read, Update, and Delete operations.  
 - **Search & Filter**:  
-   - Search notes by **title**, **description**, or any specific **word**.  
+   - Search notes by **title**.  
    - Filter notes based on **date** or **keywords**.  
 - **Private & Personal Notes**:  
    - Option to mark notes as **private** or **personal**.  
